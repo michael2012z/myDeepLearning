@@ -12,3 +12,5 @@
 - [PyTorch Lighting](https://github.com/Lightning-AI/pytorch-lightning)
 - [Netron](https://github.com/lutzroeder/netron)
 - [Build a Large Language Model (From Scratch)](https://github.com/rasbt/LLMs-from-scratch)
+- [Learn PyTorch for Deep Learning: Zero to Mastery book](https://www.learnpytorch.io/)
+- [PyG (PyTorch Geometric)](https://github.com/pyg-team/pytorch_geometric)
